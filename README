@@ -1,0 +1,10 @@
+Text Menu Utility
+by Hot Pocket Adventure
+
+A library used to create, save and load text based menus for use in other text based Java applications.
+
+
+To include this utility in an existing Java project, add TextMenu-1-0-0.jar and its external dependencies (javax.json-1.0.4.jar) to the Java build path. If desired attach their sources as well.
+
+
+JSON license: http://www.json.org/license.html
