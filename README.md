@@ -1,14 +1,14 @@
-=============================
-|| Text Menu Utility       ||
-|| by Hot Pocket Adventure ||
-=============================
+# =============================
+# Text Menu Utility       
+# by Hot Pocket Adventure 
+# =============================
 
 
 Includes
 --------
-- TextMenu-1-1-0.jar
-- TextMenu-1-1-0-sources.jar
-- javax.json-1-0-4.jar
+* TextMenu-1-1-0.jar
+* TextMenu-1-1-0-sources.jar
+* javax.json-1-0-4.jar
 
 
 Description
