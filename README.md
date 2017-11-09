@@ -37,7 +37,7 @@ Getting The Library
 -------------------
 Download the full library and its dependencies [here](http://download1516.mediafireuserdownload.com/bkw715ztktgg/bawb3bav2z7muz7/TextMenu-1-0-0.zip)
 
-###Includes
+### Includes
 * Java Menu Library (TextMenu-1-0-0.jar)
 * Java Menu Sources (TextMenu-1-0-0-sources.jar)
 * External Libraries
